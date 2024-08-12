@@ -1,6 +1,6 @@
 ## Sudoku
 
-[![randown](https://aqclf.xyz/randown/randown.svg)](https://aqclf.xyz/randown?username=aquaticcalf&reponame=sudoku)
+[![randown](https://aqclf.xyz/randown/randown.svg)](https://aqclf.xyz/randown?username=aquaticcalf&reponame=java-sudoku)
 
 This project is a simple Sudoku game built using Java Swing for the GUI. It includes features for generating puzzles, validating solutions, providing hints, and resetting the game.
 
